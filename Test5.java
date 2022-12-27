@@ -11,6 +11,9 @@ class MyComparator4 implements Comparator{
 		
 		int id1 =this.eid;
 		
+		public void m2() {
+			System.out.println("Inside m2()");
+		}
 		
 	}
 }

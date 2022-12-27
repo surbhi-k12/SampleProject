@@ -24,6 +24,9 @@ public class Demo {
 		
 		System.out.println("The elements which are not even are : :");
 		m1(p2.negate(),arr);
+		
+		System.out.println("All elements will be printed:");
+		
 
 
 
